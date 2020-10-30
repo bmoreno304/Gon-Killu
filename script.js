@@ -29,6 +29,9 @@ function playSound() {
 function playSound1() {
   j.play();
 }
+function playsound2() {
+  k.play():
+}
 
 var image1array = ["images/quin1.png", "images/show1.png", "images/first.png"];
 
